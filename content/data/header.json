@@ -15,7 +15,7 @@
     "secondaryLinks": [
         {
             "label": "Log in",
-            "url": "/",
+            "url": "https://login.microsoftonline.com/friendscreekcomputers.com/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3a%2f%2fm365.cloud.microsoft%2flandingv2&response_type=code+id_token&scope=openid+profile+https%3a%2f%2fwww.office.com%2fv2%2fOfficeHome.All&response_mode=form_post&nonce=638769206571968371.MzkxNGJmY2QtNTE3Yi00OTRkLWI5N2EtZGQ3YWJmNzQ5M2U2ZTJmNWUyZTMtNTNjYi00Y2Y1LWI0YTktY2RjNTE4ZGJhMWU4&ui_locales=en-US&mkt=en-US&client-request-id=9169af3b-ae6a-4b10-b050-9b1f446c5242&state=Dwc4aM4GWcDWLp1NiZJ54pwNUruqr_Q-f-PncfTL-lHqeDcMdKnpuCvsSRMTXzr5t2tu4Ye3dLOvEVpDUoUuOMonX37FZuoito2_b7M9S3cEfTwaamm3VrjvQOkdGOMV4ozBEKgwsw9X2JGsxAwKBGkqxBLLN9fj7NpPeDM97ILzoK4rEq2pYOTNejTG2IHcy3nNuaDfPbDiRGcBtQTPwkXhEekdsxeA4vN77euMUid9F1z6WVcvgrs6poQJqz3KSdm0Shx-OjU3WewHVxLgMiQ0klU5RLsecVM3Ts0zo9XPcqWHBedI0CsJeQiJx1sU&x-client-SKU=ID_NET8_0&x-client-ver=7.5.1.0&allowbacktocommon=True",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
