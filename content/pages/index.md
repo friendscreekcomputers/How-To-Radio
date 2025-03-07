@@ -12,7 +12,8 @@ sections:
     actions:
       - label: Go to the Slides
         altText: ''
-        url: /
+        url: >-
+          https://friendscreekcomputers-my.sharepoint.com/:p:/p/joseph/ET-rnVPFi7pHglAfLW6i2wIBr6yaFIahTo4m0TCVQaLw5w?e=bBUqJG
         showIcon: false
         icon: arrowRight
         iconPosition: right
