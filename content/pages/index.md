@@ -7,7 +7,7 @@ sections:
       text: Learn how to use your radio
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: ''
     actions:
       - label: Get started
