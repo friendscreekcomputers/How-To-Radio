@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Friends Creek Radio System
       color: text-primary
       type: Badge
     elementId: ''
